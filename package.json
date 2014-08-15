@@ -1,0 +1,27 @@
+{
+  "name": "netlink",
+  "version": "0.0.1",
+  "description": "Link the network state",
+  "license": {
+    "type": "MIT"
+  },
+  "keywords": [
+    "network",
+    "netlink",
+    "network-state"
+  ],
+  "author": {
+    "name": "Wang Feng",
+    "email": "wangfeng@nfs.iscas.ac.cn"
+  },
+  "maintainers": [
+    {
+      "name": "Wang Feng",
+      "email": "wangfeng@nfs.iscas.ac.cn"
+    }
+  ],
+  "engines": {
+    "node": ">=0.4"
+  },
+  "_id": "netlink@0.0.1"
+}
